@@ -35,18 +35,18 @@ Publish the website in the LocalHost.
 <html>
 
 <head>
-    <title>CHANGES CAN BE BEAUTIFUL</title>
+    <title>BOOK COVER</title>
     <style>
         .bookpage{
 
             width: 400px;
-            height: 650px;
+            height: 700px;
             color:black;
             margin-left: auto;
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(cover1.jpg);
+            background-image: url(tech.jpg);
             background-size: cover;
         }
             
@@ -101,12 +101,12 @@ Publish the website in the LocalHost.
         
         }
         .subtitle{
-            color:azure;
+            color:aquamarine;
             font-family: 'Courier New', Courier, monospace;
             font-size: larger;
             text-align: Verdana;
             position: relative;
-            top: 40px;
+            top: 30px;
         }
         .mypic{
             position: relative;
@@ -122,18 +122,18 @@ Publish the website in the LocalHost.
         <body>
         <div class="bookpage">
             <div class="insight">
-                BUTTERFLY
+                PROGRAMMING 
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1>CHANGES CAN BE BEAUTIFUL</h1></div>
+                <h1>THE ART OF PROGRAMMING LANGUAGE</h1></div>
             <div class="subtitle">
-                 "TO IMPROVE IS TO CHANGE;
-                 <br>
-                 TO BE PERFECT IS TO CHANGE OFTEN."
-                </div>
+            "PROGRAMMING ISN'T ABOUT WHAT YOU KNOW;
+             IT'S ABOUT WHAT YOU CAN FIGURE OUT."
+     
+            </div>
             
             <div class="mypic">
                 <img src="img.jpg" width="70" height="80" >
@@ -152,12 +152,12 @@ Publish the website in the LocalHost.
             </div>
         </div>
         </body>
-</html>        
+</html>
 ```
 
 ## OUTPUT:
 
-![Alt text](bc.png)
+![Alt text](bc1.png)
 
 
 ## RESULT:
