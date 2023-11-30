@@ -64,7 +64,7 @@ Publish the website in the LocalHost.
         
             display: inline;
             position: relative;
-            color:cornflowerblue;
+            color:palevioletred;
             top:280px;
             
             font-family:Georgia;
@@ -86,7 +86,7 @@ Publish the website in the LocalHost.
            
         }
         .pub{
-            color:cornflowerblue;
+            color:palevioletred;
             font-size: medium;
             position: relative;
             top:250px;
@@ -101,7 +101,7 @@ Publish the website in the LocalHost.
         
         }
         .subtitle{
-            color:aquamarine;
+            color:lavender;
             font-family: 'Courier New', Courier, monospace;
             font-size: larger;
             text-align: Verdana;
@@ -130,8 +130,8 @@ Publish the website in the LocalHost.
             <div class="booktitle">
                 <h1>THE ART OF PROGRAMMING LANGUAGE</h1></div>
             <div class="subtitle">
-            "PROGRAMMING ISN'T ABOUT WHAT YOU KNOW;
-             IT'S ABOUT WHAT YOU CAN FIGURE OUT."
+            <b> "PROGRAMMING ISN'T ABOUT WHAT YOU KNOW;
+             IT'S ABOUT WHAT YOU CAN FIGURE OUT."</b>
      
             </div>
             
