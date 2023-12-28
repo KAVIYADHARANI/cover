@@ -157,7 +157,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Alt text](bc1.png)
+"C:\Users\dell\OneDrive\Documents\Desktop\book.png"
 
 
 ## RESULT:
