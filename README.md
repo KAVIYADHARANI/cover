@@ -157,8 +157,9 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-"C:\Users\dell\OneDrive\Documents\Desktop\book.png"
 
+
+<img width="960" alt="book" src="https://github.com/KAVIYADHARANI/cover/assets/144870680/95a97325-1e06-4943-b40e-8405b57c1079">
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
